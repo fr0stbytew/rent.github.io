@@ -1,0 +1,130 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rensaransk.github.io" resolutions="1x" timestamp="1515264414372">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4132580700" ref="index"/>
+    <file name="iefonts_index.css" crc="504919022" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>без-имени-2:index"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:phone>без-имени-2:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>без-имени-2:index"/>
+    <file name="museconfig.js" crc="436936948" ref="phone>index:phone>без-имени-2:index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:phone>без-имени-2:index"/>
+    <file name="require.js" crc="85721165" ref="phone>index:phone>без-имени-2:index"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="phone>без-имени-2"/>
+  </folder>
+  <folder name="images">
+    <file name="вставленное изображение 750x537-crop-u2072.jpg" crc="4001847090" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2075-4.png" crc="148262022" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 1024x682-crop-u2078.jpg" crc="472315841" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2080-4.png" crc="4136280109" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 960x540-crop-u2081.jpg" crc="535200039" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2084-8.png" crc="107475994" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 800x450-crop-u2091.jpg" crc="3874960197" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2094-4.png" crc="40079642" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 1024x682-crop-u2095.jpg" crc="313471398" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2101-4.png" crc="483179780" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 750x537-crop-u20722.jpg" crc="4117266418" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2075-42.png" crc="499872193" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 1024x682-crop-u20782.jpg" crc="145968654" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2080-42.png" crc="4050940834" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 960x540-crop-u20812.jpg" crc="3832645939" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2084-82.png" crc="4225430078" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 800x450-crop-u20912.jpg" crc="45784250" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2094-42.png" crc="478183064" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 1024x682-crop-u20952.jpg" crc="4030596915" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2101-42.png" crc="529557291" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 750x537-crop-u20723.jpg" crc="68192514" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2075-43.png" crc="170263695" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 1024x682-crop-u20783.jpg" crc="497517766" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2080-43.png" crc="317523062" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 960x540-crop-u20813.jpg" crc="83235680" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2084-83.png" crc="16730383" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 800x450-crop-u20913.jpg" crc="456181738" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2094-43.png" crc="333971505" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 1024x682-crop-u20953.jpg" crc="497517766" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2101-43.png" crc="3770836359" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 750x537-crop-u20724.jpg" crc="3919592290" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2075-44.png" crc="486771974" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 1024x682-crop-u20784.jpg" crc="4271382070" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2080-44.png" crc="4203437377" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 960x540-crop-u20814.jpg" crc="4208946308" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2084-84.png" crc="72536686" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 800x450-crop-u20914.jpg" crc="4147787696" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2094-44.png" crc="459206786" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 1024x682-crop-u20954.jpg" crc="4188863784" seo="true" ref="phone>без-имени-2">
+      <caption webpage="без-имени-2" alt=""/>
+    </file>
+    <file name="u2101-44.png" crc="3849393537" ref="phone>без-имени-2"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>без-имени-2"/>
+    <file name="вставленное изображение 750x537-crop-u1528.jpg" crc="525564223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1582-4.png" crc="63633028" ref="index"/>
+    <file name="u1637-4.png" crc="440005640" ref="index"/>
+    <file name="вставленное изображение 1024x682-crop-u1622.jpg" crc="3857631495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 960x540-crop-u1640.jpg" crc="319629067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1658-8.png" crc="3838698224" ref="index"/>
+    <file name="u1706-4.png" crc="3862610825" ref="index"/>
+    <file name="вставленное изображение 800x450-crop-u1688.jpg" crc="367986058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 1024x682-crop-u1709.jpg" crc="3857631495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1873-4.png" crc="3915203742" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="___-_____-2.css" crc="2435015" ref="phone>без-имени-2"/>
+      <file name="nomq____-_____-2.css" crc="4057313351" ref="phone>без-имени-2"/>
+      <file name="iefonts____-_____-2.css" crc="3824530138" ref="phone>без-имени-2"/>
+      <file name="index.css" crc="3829384113" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3932493829" seo="true" mt="1515261339660" redirect="false"/>
+    <file name="без-имени-2.html" crc="4235498602" seo="true" mt="1515264165954" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="125598768" seo="true" mt="1515261339921" redirect="true"/>
+</manifest>
